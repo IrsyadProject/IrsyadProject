@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Irsyad 😄 and I'm a Web and Software Engineer, from Purwodadi, Central Java, Indonesia 🍃</h2>
+<h2 align="left">Hi 👋! My name is Irsyad 😄 and I'm a Web and Software Engineer, from Central Java 🍃</h2>
 
 ###
 
