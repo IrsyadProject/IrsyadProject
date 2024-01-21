@@ -1,6 +1,6 @@
 <h1 align="center">Hai👋 My name is Irsyad 🍃</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=3DFFAC&center=true&vCenter=true&random=false&width=435&lines=Selamat+datang+di+Github+saya;Saya+Web+dan+Software+Engineer;Lulusan+Sarjana+Komputer;Jurusan+Teknik+Informatika;Saya+juga+Seorang+Guru+Teknik+Komputer+dan+Jaringan;dan+Founder+%40idream.my.id" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=3DFFAC&center=true&vCenter=true&random=false&width=435&lines=Selamat+datang+di+Github+saya;Saya+Web+dan+Software+Engineer;Lulusan+Sarjana+Komputer;Jurusan+Teknik+Informatika;Guru+Teknik+Komputer+dan+Jaringan;dan+Founder+%40idream.my.id" alt="Typing SVG" /></a>
 </p>
 
 ## 👨🏻‍💻 My Skills
