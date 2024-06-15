@@ -1,85 +1,62 @@
-<h1 align="center">Hai👋 My name is Irsyad 🍃</h1>
+<h1 align="center">Hai👋 my name is Irsyad 🍃</h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=3DFFAC&center=true&vCenter=true&random=false&width=435&lines=Selamat+datang+di+Github+saya;Saya+Web+dan+Software+Engineer;Lulusan+Sarjana+Komputer;Jurusan+Teknik+Informatika;Guru+Teknik+Komputer+dan+Jaringan;dan+Founder+%40idream.my.id" alt="Typing SVG" /></a>
-</p>
-
-## 👨🏻‍💻 My Skills
-<div align="center">
+  <div align="center">
   <img height="150" src="https://media1.tenor.com/m/zZOt7alSzAMAAAAd/gojo-gojo-satoru.gif"  />
   <img height="150" src="https://media1.tenor.com/m/mgTK0bsWqNAAAAAC/sao.gif"  />
   <img height="150" src="https://media1.tenor.com/m/RJaiYJJV8xsAAAAC/saitama-pfp.gif"  />
 </div>
-<br>
+</p>
+
+## Skills
 
 ### Bahasa Pemrograman:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
-</div>
-<br>
+
+[![Bahasa Pemrograman](https://skillicons.dev/icons?i=html,css,js,php,java,dart,kotlin,go,py,cs,cpp)](https://skillicons.dev)
 
 ### Framework:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div>
-<br>
+
+[![Framework](https://skillicons.dev/icons?i=bootstrap,tailwind,wordpress,laravel,jquery,vue,react,nuxtjs,nextjs,flutter,express)](https://skillicons.dev)
+
+### Database:
+
+[![Database](https://skillicons.dev/icons?i=sqlite,mysql,firebase,prisma,sequelize)](https://skillicons.dev)
 
 ### Sistem Operasi:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" height="30" alt="debian"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="30" alt="ubuntu"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30"/>
-</div>
-<br>
 
-###
+[![SistemOperasi](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,mint,kali)](https://skillicons.dev)
+
+### Alat:
+
+[![Alat](https://skillicons.dev/icons?i=vscode,androidstudio,aws,azure,git,cloudflare,discord,docker,eclipse,figma,github,gitlab,gmail,ai,nginx,nodejs,npm,ps,postman,powershell,stackoverflow,sublime,vite,xd)](https://skillicons.dev)
 
 ## Contact me
-<div align="center">
-  <a href="https://www.youtube.com/@irsyadproject4194" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+
+<p align="center">
+  <a href="https://www.instagram.com/99ir.ib/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.instagram.com/99ir.ib/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="projectirsyad@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="projectirsyad@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/m-irsyadul-ibad-arrozy-0a6909143/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/m-irsyadul-ibad-arrozy-0a6909143/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+</p>
 
 ## Github Statistik
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IrsyadProject&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=irsyadproject&theme=radical&rank_icon=github&show_icons=true" alt="Irsyad Projet" height=200>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadproject&theme=radical&layout=compact" alt="Top Langs" height=200>
 </div>
-
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/IrsyadProject/IrsyadProject/output/snake.svg" alt="Snake animation" />
 
 ###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/IrsyadProject/count.svg?"  />
 </div>
