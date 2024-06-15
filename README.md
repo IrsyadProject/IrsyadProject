@@ -51,6 +51,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadproject&theme=radical&layout=compact" alt="Top Langs" height=200>
 </div>
 
+## Support
+
+<a href="https://sociabuzz.com/irsyadproject">
+  <img src="supportmebutton.png" width="150" alt="">
+</a>
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/IrsyadProject/IrsyadProject/output/snake.svg" alt="Snake animation" />
@@ -60,7 +66,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/IrsyadProject/count.svg?"/>
 </div>
-
-## Support
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I5ZCQ5F)
