@@ -58,5 +58,9 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/IrsyadProject/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/IrsyadProject/count.svg?"/>
 </div>
+
+## Support
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I5ZCQ5F)
