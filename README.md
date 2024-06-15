@@ -12,23 +12,23 @@
 
 ### Bahasa Pemrograman:
 
-[![Bahasa Pemrograman](https://skillicons.dev/icons?i=html,css,js,php,java,dart,kotlin,go,py,cs,cpp)](https://skillicons.dev)
+[![Bahasa Pemrograman](https://skillicons.dev/icons?i=html,css,js,php,java,dart,kotlin,go,py,cs,cpp)](https://irsyadproject.my.id/)
 
 ### Framework:
 
-[![Framework](https://skillicons.dev/icons?i=bootstrap,tailwind,wordpress,laravel,jquery,vue,react,nuxtjs,nextjs,flutter,express)](https://skillicons.dev)
+[![Framework](https://skillicons.dev/icons?i=bootstrap,tailwind,wordpress,laravel,jquery,vue,react,nuxtjs,nextjs,flutter,express)](https://irsyadproject.my.id/)
 
 ### Database:
 
-[![Database](https://skillicons.dev/icons?i=sqlite,mysql,firebase,prisma,sequelize)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=sqlite,mysql,firebase,prisma,sequelize)](https://irsyadproject.my.id/)
 
 ### Sistem Operasi:
 
-[![SistemOperasi](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,mint,kali)](https://skillicons.dev)
+[![SistemOperasi](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,mint,kali)](https://irsyadproject.my.id/)
 
 ### Alat:
 
-[![Alat](https://skillicons.dev/icons?i=vscode,androidstudio,aws,azure,git,cloudflare,discord,docker,eclipse,figma,github,gitlab,gmail,ai,nginx,nodejs,npm,ps,postman,powershell,stackoverflow,sublime,vite,xd)](https://skillicons.dev)
+[![Alat](https://skillicons.dev/icons?i=vscode,androidstudio,aws,azure,git,cloudflare,discord,docker,eclipse,figma,github,gitlab,gmail,ai,nginx,nodejs,npm,ps,postman,powershell,stackoverflow,sublime,vite,xd)](https://irsyadproject.my.id/)
 
 ## Contact me
 
