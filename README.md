@@ -5,10 +5,10 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · irsyadproject</sub></p>
 <h1>M. Irsyadul Ibad Arrozy</h1>
-<h2>Software Enggineer</h2>
-<p>Create magic with code 🏻</p>
+<h2>Software Engineer</h2>
+<p>Create magic with code</p>
 <p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Indonesia · Building at Idream.my.id</sub></p>
+<p><sub>Based in Indonesia · Building at <a href="https://zerotech.my.id">ZeroTech</a></sub></p>
 <p><a href="https://github.com/irsyadproject">GitHub</a> &nbsp;·&nbsp; <a href="https://irsyadproject.my.id">Website</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
