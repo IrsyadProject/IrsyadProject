@@ -165,19 +165,19 @@
 <div align="center">
 
   <!-- GitHub Stats & Top Languages Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=IrsyadProject&show_icons=true&bg_color=001a00&border_color=22c55e&title_color=00ff00&text_color=4ade80&icon_color=22c55e&hide_border=false&border_radius=12&locale=en" alt="IrsyadProject's GitHub Stats" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api?username=IrsyadProject&show_icons=true&bg_color=001a00&border_color=22c55e&title_color=00ff00&text_color=4ade80&icon_color=22c55e&hide_border=false&border_radius=12&locale=en" alt="IrsyadProject's GitHub Stats" height="175" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrsyadProject&layout=compact&bg_color=001a00&border_color=22c55e&title_color=00ff00&text_color=4ade80&icon_color=22c55e&hide_border=false&border_radius=12&langs_count=6" alt="Top Languages" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IrsyadProject&layout=compact&bg_color=001a00&border_color=22c55e&title_color=00ff00&text_color=4ade80&icon_color=22c55e&hide_border=false&border_radius=12&langs_count=6" alt="Top Languages" height="175" />
 
   <br><br>
 
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IrsyadProject&background=001a00&border=22c55e&stroke=22c55e&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=4ade80&currStreakLabel=22c55e&sideLabels=4ade80&dates=4ade80&border_radius=12" alt="GitHub Streak" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=IrsyadProject&background=001a00&border=22c55e&stroke=22c55e&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=4ade80&currStreakLabel=22c55e&sideLabels=4ade80&dates=4ade80&border_radius=12" alt="GitHub Streak" width="95%" />
 
   <br><br>
 
   <!-- Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrsyadProject&bg_color=001a00&color=22c55e&line=00ff00&point=4ade80&area=true&hide_border=false&border_color=22c55e&border_radius=12" alt="Activity Graph" width="95%" />
+  <img src="https://activity-graph.vercel.app/graph?username=IrsyadProject&bg_color=001a00&color=22c55e&line=00ff00&point=4ade80&area=true&hide_border=false&border_color=22c55e&border_radius=12" alt="Activity Graph" width="95%" />
 
 </div>
 
