@@ -4,8 +4,8 @@
 <tr>
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · irsyadproject</sub></p>
-<h1>IrsyadProject</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h1>M. Irsyadul Ibad Arrozy</h1>
+<h2>Software Enggineer</h2>
 <p>Create magic with code 🏻</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Indonesia · Building at Idream.my.id</sub></p>
